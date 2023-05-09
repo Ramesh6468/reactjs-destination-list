@@ -1,0 +1,19 @@
+.destination-list {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 15px;
+  list-style-type: none;
+}
+.image {
+  height: 235px;
+  width: 235px;
+  margin: 15px;
+}
+.name {
+  font-weight: bold;
+  color: #000000;
+}
+
